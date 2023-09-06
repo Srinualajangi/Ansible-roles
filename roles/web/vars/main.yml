@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.glitztechs.com
+USER_HOST: user.glitztechs.com
+SHIPPING_HOST: shipping.glitztechs.com
+CART_HOST: cart.glitztechs.com
+PAYMENT_HOST: payment.glitztechs.com
